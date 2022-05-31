@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="hadokenNC.png"><SubTexture name="Hadoken or Roundabout0000" x="860" y="637" width="499" height="476" frameX="-16" frameY="-72" frameWidth="1066" frameHeight="678" />
+<SubTexture name="Hadoken or Roundabout0001" x="944" y="1525" width="510" height="399" frameX="-5" frameY="-149" frameWidth="1066" frameHeight="678" />
+<SubTexture name="Hadoken or Roundabout0002" x="1982" y="786" width="665" height="356" frameX="-33" frameY="-192" frameWidth="1066" frameHeight="678" />
+<SubTexture name="Hadoken or Roundabout0003" x="0" y="637" width="860" height="482" frameX="-24" frameY="-96" frameWidth="1066" frameHeight="678" />
+<SubTexture name="Hadoken or Roundabout0004" x="1008" y="0" width="974" height="597" frameX="-29" frameY="-47" frameWidth="1066" frameHeight="678" />
+<SubTexture name="Hadoken or Roundabout0005" x="0" y="0" width="1008" height="637" frameX="-27" frameY="-29" frameWidth="1066" frameHeight="678" />
+<SubTexture name="Hadoken or Roundabout0006" x="1982" y="0" width="773" height="395" frameX="-27" frameY="-153" frameWidth="1066" frameHeight="678" />
+<SubTexture name="Hadoken or Roundabout0007" x="1272" y="1119" width="622" height="402" frameX="-27" frameY="-146" frameWidth="1066" frameHeight="678" />
+<SubTexture name="Hadoken or Roundabout0008" x="0" y="1525" width="622" height="402" frameX="-27" frameY="-146" frameWidth="1066" frameHeight="678" />
+<SubTexture name="Hadoken or Roundabout0009" x="0" y="1119" width="632" height="406" frameX="-27" frameY="-142" frameWidth="1066" frameHeight="678" />
+<SubTexture name="Hadoken or Roundabout0010" x="632" y="1119" width="640" height="406" frameX="-27" frameY="-142" frameWidth="1066" frameHeight="678" />
+<SubTexture name="Hadoken or Roundabout0011" x="1982" y="395" width="644" height="391" frameX="-23" frameY="-157" frameWidth="1066" frameHeight="678" />
+<SubTexture name="Hadoken or Roundabout0012" x="1454" y="1525" width="383" height="396" frameX="-23" frameY="-152" frameWidth="1066" frameHeight="678" />
+<SubTexture name="Hadoken or Roundabout0013" x="1359" y="637" width="320" height="426" frameX="-17" frameY="-114" frameWidth="1066" frameHeight="678" />
+<SubTexture name="Hadoken or Roundabout0014" x="622" y="1525" width="322" height="400" frameX="-17" frameY="-140" frameWidth="1066" frameHeight="678" />
+</TextureAtlas>

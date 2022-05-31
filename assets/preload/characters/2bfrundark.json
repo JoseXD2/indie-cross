@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				1
+			],
+			"loop": true,
+			"fps": 40,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Rightt instance 1"
+		},
+		{
+			"offsets": [
+				2,
+				2
+			],
+			"loop": true,
+			"fps": 35,
+			"anim": "idle",
+			"indices": [],
+			"name": "Run_cycle instance 1"
+		},
+		{
+			"offsets": [
+				-4,
+				0
+			],
+			"indices": [],
+			"fps": 40,
+			"anim": "singUP",
+			"loop": true,
+			"name": "Up instance 1"
+		},
+		{
+			"offsets": [
+				-3,
+				4
+			],
+			"indices": [],
+			"fps": 40,
+			"anim": "singDOWN",
+			"loop": true,
+			"name": "Down instance 1"
+		},
+		{
+			"offsets": [
+				7,
+				-1
+			],
+			"indices": [],
+			"fps": 40,
+			"anim": "singLEFT",
+			"loop": true,
+			"name": "Leftt instance 1"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/dark/NM-run-BF-Dark",
+	"position": [
+		200,
+		340
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		70,
+		-50
+	],
+	"sing_duration": 4,
+	"scale": 1.1
+}

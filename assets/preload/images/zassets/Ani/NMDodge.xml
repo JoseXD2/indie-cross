@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="NMDodge.png"><SubTexture name="Dodge instance 0000" x="249" y="756" width="259" height="236" frameX="0" frameY="-18" frameWidth="259" frameHeight="256" />
+<SubTexture name="Dodge instance 0001" x="0" y="0" width="249" height="256" frameX="-8" frameY="0" frameWidth="259" frameHeight="256" />
+<SubTexture name="Dodge instance 0002" x="249" y="0" width="249" height="250" frameX="-8" frameY="-5" frameWidth="259" frameHeight="256" />
+<SubTexture name="Dodge instance 0003" x="498" y="0" width="249" height="250" frameX="-8" frameY="-5" frameWidth="259" frameHeight="256" />
+<SubTexture name="Dodge instance 0004" x="0" y="256" width="249" height="250" frameX="-8" frameY="-5" frameWidth="259" frameHeight="256" />
+<SubTexture name="Dodge instance 0005" x="249" y="256" width="249" height="250" frameX="-8" frameY="-5" frameWidth="259" frameHeight="256" />
+<SubTexture name="Dodge instance 0006" x="498" y="256" width="249" height="250" frameX="-8" frameY="-5" frameWidth="259" frameHeight="256" />
+<SubTexture name="Dodge instance 0007" x="747" y="0" width="249" height="250" frameX="-8" frameY="-5" frameWidth="259" frameHeight="256" />
+<SubTexture name="Dodge instance 0008" x="747" y="250" width="249" height="250" frameX="-8" frameY="-5" frameWidth="259" frameHeight="256" />
+<SubTexture name="Dodge instance 0009" x="0" y="506" width="249" height="250" frameX="-8" frameY="-5" frameWidth="259" frameHeight="256" />
+<SubTexture name="Dodge instance 0010" x="249" y="506" width="249" height="250" frameX="-8" frameY="-5" frameWidth="259" frameHeight="256" />
+<SubTexture name="Dodge instance 0011" x="498" y="506" width="248" height="250" frameX="-9" frameY="-5" frameWidth="259" frameHeight="256" />
+<SubTexture name="Dodge instance 0012" x="746" y="506" width="249" height="250" frameX="-8" frameY="-5" frameWidth="259" frameHeight="256" />
+<SubTexture name="Dodge instance 0013" x="996" y="0" width="248" height="250" frameX="-9" frameY="-5" frameWidth="259" frameHeight="256" />
+<SubTexture name="Dodge instance 0014" x="249" y="0" width="249" height="250" frameX="-8" frameY="-5" frameWidth="259" frameHeight="256" />
+<SubTexture name="Dodge instance 0015" x="996" y="250" width="248" height="250" frameX="-9" frameY="-5" frameWidth="259" frameHeight="256" />
+<SubTexture name="Dodge instance 0016" x="0" y="256" width="249" height="250" frameX="-8" frameY="-5" frameWidth="259" frameHeight="256" />
+<SubTexture name="Dodge instance 0017" x="996" y="500" width="248" height="250" frameX="-9" frameY="-5" frameWidth="259" frameHeight="256" />
+<SubTexture name="Dodge instance 0018" x="0" y="756" width="249" height="250" frameX="-8" frameY="-5" frameWidth="259" frameHeight="256" />
+</TextureAtlas>

@@ -1,0 +1,155 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				70,
+				24
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "Dodge",
+			"indices": [],
+			"name": "SansDodge instance 1"
+		},
+		{
+			"offsets": [
+				40,
+				-3
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Left instance "
+		},
+		{
+			"offsets": [
+				-21,
+				-3
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Right instance "
+		},
+		{
+			"offsets": [
+				-22,
+				-16
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Down instance "
+		},
+		{
+			"offsets": [
+				-27,
+				28
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Up instance "
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Sans FNF instance "
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-23,
+				0
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 24,
+			"name": "Right Tired instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				34,
+				1
+			],
+			"anim": "singLEFT-alt",
+			"fps": 24,
+			"name": "Left Tired instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-20,
+				-14
+			],
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "Down Tired instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				27,
+				31
+			],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "Up Tired instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				17,
+				0
+			],
+			"anim": "eee",
+			"fps": 24,
+			"name": "Snap to UT mode instance 1",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle-alt",
+			"loop": true,
+			"name": "Sans FNF Tired instance "
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/AloSans/Sans_Phase_3",
+	"position": [
+		50,
+		180
+	],
+	"healthicon": "sans",
+	"flip_x": false,
+	"healthbar_colors": [
+		80,
+		100,
+		175
+	],
+	"camera_position": [
+		100,
+		-70
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

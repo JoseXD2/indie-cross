@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="OuchHeded.png"><SubTexture name="Hurt0000" x="342" y="789" width="375" height="291" frameX="0" frameY="-50" frameWidth="421" frameHeight="401" />
+<SubTexture name="Hurt0001" x="0" y="789" width="342" height="336" frameX="-32" frameY="-28" frameWidth="421" frameHeight="401" />
+<SubTexture name="Hurt0002" x="734" y="398" width="377" height="368" frameX="-15" frameY="-12" frameWidth="421" frameHeight="401" />
+<SubTexture name="Hurt0003" x="0" y="398" width="359" height="391" frameX="-43" frameY="0" frameWidth="421" frameHeight="401" />
+<SubTexture name="Hurt0004" x="359" y="398" width="375" height="391" frameX="-43" frameY="-7" frameWidth="421" frameHeight="401" />
+<SubTexture name="Hurt0005" x="745" y="0" width="380" height="394" frameX="-41" frameY="-6" frameWidth="421" frameHeight="401" />
+<SubTexture name="Hurt0006" x="374" y="0" width="371" height="396" frameX="-45" frameY="-4" frameWidth="421" frameHeight="401" />
+<SubTexture name="Hurt0007" x="0" y="0" width="374" height="398" frameX="-44" frameY="-3" frameWidth="421" frameHeight="401" />
+<SubTexture name="Hurt0008" x="0" y="1125" width="304" height="275" frameX="-52" frameY="-56" frameWidth="421" frameHeight="401" />
+<SubTexture name="Hurt0009" x="717" y="789" width="301" height="276" frameX="-55" frameY="-55" frameWidth="421" frameHeight="401" />
+<SubTexture name="Hurt0010" x="717" y="789" width="301" height="276" frameX="-55" frameY="-55" frameWidth="421" frameHeight="401" />
+<SubTexture name="Hurt0011" x="1125" y="0" width="299" height="276" frameX="-57" frameY="-55" frameWidth="421" frameHeight="401" />
+<SubTexture name="Hurt0012" x="1125" y="0" width="299" height="276" frameX="-57" frameY="-55" frameWidth="421" frameHeight="401" />
+<SubTexture name="Hurt0013" x="1125" y="276" width="297" height="276" frameX="-59" frameY="-55" frameWidth="421" frameHeight="401" />
+<SubTexture name="Hurt0014" x="1125" y="276" width="297" height="276" frameX="-58" frameY="-55" frameWidth="421" frameHeight="401" />
+<SubTexture name="Hurt0015" x="1125" y="552" width="297" height="276" frameX="-59" frameY="-55" frameWidth="421" frameHeight="401" />
+<SubTexture name="Hurt0016" x="1125" y="552" width="297" height="276" frameX="-59" frameY="-55" frameWidth="421" frameHeight="401" />
+<SubTexture name="Hurt0017" x="1125" y="552" width="297" height="276" frameX="-59" frameY="-55" frameWidth="421" frameHeight="401" />
+<SubTexture name="Hurt0018" x="1125" y="552" width="297" height="276" frameX="-59" frameY="-55" frameWidth="421" frameHeight="401" />
+<SubTexture name="Hurt0019" x="1125" y="552" width="297" height="276" frameX="-59" frameY="-55" frameWidth="421" frameHeight="401" />
+<SubTexture name="Hurt0020" x="1125" y="552" width="297" height="276" frameX="-59" frameY="-55" frameWidth="421" frameHeight="401" />
+<SubTexture name="Hurt0021" x="1125" y="552" width="297" height="276" frameX="-59" frameY="-55" frameWidth="421" frameHeight="401" />
+<SubTexture name="Hurt0022" x="1125" y="552" width="297" height="276" frameX="-59" frameY="-55" frameWidth="421" frameHeight="401" />
+<SubTexture name="Hurt0023" x="1125" y="552" width="297" height="276" frameX="-59" frameY="-55" frameWidth="421" frameHeight="401" />
+<SubTexture name="Hurt0024" x="1125" y="552" width="297" height="276" frameX="-59" frameY="-55" frameWidth="421" frameHeight="401" />
+<SubTexture name="Hurt0025" x="1125" y="552" width="297" height="276" frameX="-59" frameY="-55" frameWidth="421" frameHeight="401" />
+<SubTexture name="Hurt0026" x="1125" y="552" width="297" height="276" frameX="-59" frameY="-55" frameWidth="421" frameHeight="401" />
+<SubTexture name="Hurt0027" x="1125" y="552" width="297" height="276" frameX="-59" frameY="-55" frameWidth="421" frameHeight="401" />
+<SubTexture name="Hurt0028" x="1125" y="552" width="297" height="276" frameX="-59" frameY="-55" frameWidth="421" frameHeight="401" />
+<SubTexture name="Hurt0029" x="1125" y="552" width="297" height="276" frameX="-59" frameY="-55" frameWidth="421" frameHeight="401" />
+<SubTexture name="Hurt0030" x="1125" y="552" width="297" height="276" frameX="-59" frameY="-55" frameWidth="421" frameHeight="401" />
+<SubTexture name="Hurt0031" x="1125" y="552" width="297" height="276" frameX="-59" frameY="-55" frameWidth="421" frameHeight="401" />
+<SubTexture name="Hurt0032" x="1125" y="552" width="297" height="276" frameX="-59" frameY="-55" frameWidth="421" frameHeight="401" />
+</TextureAtlas>

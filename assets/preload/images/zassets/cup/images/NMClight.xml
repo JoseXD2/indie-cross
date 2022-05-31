@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="NMClight.png"><SubTexture name="NMClight0000" x="299" y="0" width="319" height="347" frameX="-5" frameY="0" frameWidth="319" frameHeight="347" />
+<SubTexture name="NMClight0001" x="0" y="0" width="299" height="361" frameX="-18" frameY="0" frameWidth="319" frameHeight="361" />
+<SubTexture name="NMClight0002" x="618" y="0" width="293" height="339" frameX="-12" frameY="0" frameWidth="319" frameHeight="339" />
+</TextureAtlas>

@@ -1,0 +1,144 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				70,
+				24
+			],
+			"anim": "Dodge",
+			"fps": 24,
+			"name": "SansDodge instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				40,
+				-3
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Left instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-21,
+				-3
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Right instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-22,
+				-16
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Down instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-27,
+				28
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Up instance",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Sans FNF Tired instance 1",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-23,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"indices": [],
+			"name": "Right Tired instance 1"
+		},
+		{
+			"offsets": [
+				34,
+				1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"indices": [],
+			"name": "Left Tired instance 1"
+		},
+		{
+			"offsets": [
+				-20,
+				-14
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"indices": [],
+			"name": "Down Tired instance 1"
+		},
+		{
+			"offsets": [
+				27,
+				31
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP-alt",
+			"indices": [],
+			"name": "Up Tired instance 1"
+		},
+		{
+			"offsets": [
+				17,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "eee",
+			"indices": [],
+			"name": "Switch to UT mode instance 1"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/AloSans/SansWF",
+	"position": [
+		50,
+		180
+	],
+	"healthicon": "sans",
+	"flip_x": false,
+	"healthbar_colors": [
+		80,
+		100,
+		175
+	],
+	"camera_position": [
+		100,
+		-70
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

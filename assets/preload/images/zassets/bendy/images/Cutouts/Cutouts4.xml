@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="BendyCutouts4s.png"><SubTexture name="Cutouts40000" x="2423" y="1944" width="217" height="162" frameX="-375" frameY="0" frameWidth="764" frameHeight="534" />
+<SubTexture name="Cutouts40001" x="1958" y="2122" width="237" height="381" frameX="-409" frameY="0" frameWidth="764" frameHeight="534" />
+<SubTexture name="Cutouts40002" x="982" y="2122" width="488" height="481" frameX="-276" frameY="0" frameWidth="764" frameHeight="534" />
+<SubTexture name="Cutouts40003" x="1470" y="2122" width="488" height="481" frameX="-276" frameY="0" frameWidth="764" frameHeight="534" />
+<SubTexture name="Cutouts40004" x="2423" y="974" width="473" height="485" frameX="-291" frameY="0" frameWidth="764" frameHeight="534" />
+<SubTexture name="Cutouts40005" x="2423" y="1459" width="473" height="485" frameX="-291" frameY="0" frameWidth="764" frameHeight="534" />
+<SubTexture name="Cutouts40006" x="0" y="2122" width="491" height="482" frameX="-273" frameY="0" frameWidth="764" frameHeight="534" />
+<SubTexture name="Cutouts40007" x="491" y="2122" width="491" height="482" frameX="-273" frameY="0" frameWidth="764" frameHeight="534" />
+<SubTexture name="Cutouts40008" x="2423" y="0" width="528" height="487" frameX="-236" frameY="0" frameWidth="764" frameHeight="534" />
+<SubTexture name="Cutouts40009" x="2423" y="487" width="528" height="487" frameX="-236" frameY="0" frameWidth="764" frameHeight="534" />
+<SubTexture name="Cutouts40010" x="1672" y="1068" width="368" height="526" frameX="-272" frameY="0" frameWidth="764" frameHeight="534" />
+<SubTexture name="Cutouts40011" x="2055" y="0" width="368" height="526" frameX="-272" frameY="0" frameWidth="764" frameHeight="534" />
+<SubTexture name="Cutouts40012" x="1581" y="0" width="474" height="533" frameX="-105" frameY="0" frameWidth="764" frameHeight="534" />
+<SubTexture name="Cutouts40013" x="1581" y="533" width="474" height="533" frameX="-105" frameY="0" frameWidth="764" frameHeight="534" />
+<SubTexture name="Cutouts40014" x="0" y="1600" width="521" height="522" frameX="-64" frameY="0" frameWidth="764" frameHeight="534" />
+<SubTexture name="Cutouts40015" x="521" y="1600" width="521" height="522" frameX="-64" frameY="0" frameWidth="764" frameHeight="534" />
+<SubTexture name="Cutouts40016" x="1042" y="1600" width="533" height="516" frameX="-55" frameY="0" frameWidth="764" frameHeight="534" />
+<SubTexture name="Cutouts40017" x="1575" y="1600" width="533" height="516" frameX="-55" frameY="0" frameWidth="764" frameHeight="534" />
+<SubTexture name="Cutouts40018" x="0" y="1068" width="467" height="532" frameX="-127" frameY="0" frameWidth="764" frameHeight="534" />
+<SubTexture name="Cutouts40019" x="467" y="1068" width="467" height="532" frameX="-127" frameY="0" frameWidth="764" frameHeight="534" />
+<SubTexture name="Cutouts40020" x="0" y="0" width="413" height="534" frameX="-216" frameY="0" frameWidth="764" frameHeight="534" />
+<SubTexture name="Cutouts40021" x="413" y="0" width="413" height="534" frameX="-216" frameY="0" frameWidth="764" frameHeight="534" />
+<SubTexture name="Cutouts40022" x="826" y="0" width="386" height="534" frameX="-238" frameY="0" frameWidth="764" frameHeight="534" />
+<SubTexture name="Cutouts40023" x="0" y="534" width="387" height="534" frameX="-237" frameY="0" frameWidth="764" frameHeight="534" />
+<SubTexture name="Cutouts40024" x="387" y="534" width="370" height="534" frameX="-251" frameY="0" frameWidth="764" frameHeight="534" />
+<SubTexture name="Cutouts40025" x="757" y="534" width="370" height="534" frameX="-251" frameY="0" frameWidth="764" frameHeight="534" />
+<SubTexture name="Cutouts40026" x="1212" y="0" width="369" height="534" frameX="-259" frameY="0" frameWidth="764" frameHeight="534" />
+<SubTexture name="Cutouts40027" x="1212" y="534" width="369" height="534" frameX="-259" frameY="0" frameWidth="764" frameHeight="534" />
+<SubTexture name="Cutouts40028" x="934" y="1068" width="369" height="529" frameX="-268" frameY="0" frameWidth="764" frameHeight="534" />
+<SubTexture name="Cutouts40029" x="1303" y="1068" width="369" height="529" frameX="-268" frameY="0" frameWidth="764" frameHeight="534" />
+<SubTexture name="Cutouts40030" x="2055" y="526" width="368" height="481" frameX="-293" frameY="0" frameWidth="764" frameHeight="534" />
+<SubTexture name="Cutouts40031" x="2055" y="1007" width="368" height="481" frameX="-293" frameY="0" frameWidth="764" frameHeight="534" />
+<SubTexture name="Cutouts40032" x="2108" y="1600" width="313" height="433" frameX="-338" frameY="0" frameWidth="764" frameHeight="534" />
+<SubTexture name="Cutouts40033" x="2195" y="2122" width="220" height="318" frameX="-445" frameY="0" frameWidth="764" frameHeight="534" />
+<SubTexture name="Cutouts40034" x="2640" y="1944" width="190" height="135" frameX="-501" frameY="0" frameWidth="764" frameHeight="534" />
+<SubTexture name="Cutouts40035" x="2830" y="1944" width="103" height="13" frameX="-577" frameY="0" frameWidth="764" frameHeight="534" />
+</TextureAtlas>

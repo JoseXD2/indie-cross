@@ -1,0 +1,7 @@
+open da box
+value 1 - attack
+
+--blasters
+--blasterCross = cruzados
+--blasters_r
+--blasters_s

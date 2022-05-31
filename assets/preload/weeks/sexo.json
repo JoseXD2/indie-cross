@@ -1,0 +1,49 @@
+{
+	"storyName": "Indie Cross",
+	"difficulties": "Hard",
+	"hideFreeplay": true,
+	"weekBackground": "",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"songs": [
+		[
+			"jsc",
+			"cupn",
+			[
+				175,
+				0,
+				60
+			]
+		],
+		[
+			"jss",
+			"sansn",
+			[
+				0,
+				235,
+				255
+			]
+		],
+		[
+			"jsb",
+			"bendyn",
+			[
+				255,
+				175,
+				0
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"bf",
+		""
+	],
+	"hideStoryMode": true,
+	"weekName": "Indie Cross"
+}

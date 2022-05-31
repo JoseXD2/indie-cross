@@ -1,0 +1,177 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Idle"
+		},
+		{
+			"offsets": [
+				99,
+				7
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				273,
+				-95
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "fzt"
+		},
+		{
+			"offsets": [
+				-6,
+				134
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Up"
+		},
+		{
+			"offsets": [
+				200,
+				-33
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-19,
+				-5
+			],
+			"anim": "idle-bruh",
+			"fps": 24,
+			"name": "Bruh",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				80,
+				0
+			],
+			"anim": "enojao",
+			"fps": 24,
+			"name": "Even more Mad",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				100
+			],
+			"anim": "QUE",
+			"fps": 24,
+			"name": "Oh Sans you Mother fuc-",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				35,
+				74
+			],
+			"anim": "Lesgo",
+			"fps": 24,
+			"name": "Sans lessgo",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				28,
+				28
+			],
+			"anim": "idle-boy",
+			"fps": 24,
+			"name": "That's ma boi",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				110,
+				123
+			],
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "ISTG",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				190,
+				30
+			],
+			"anim": "singLEFT-alt",
+			"fps": 24,
+			"name": "jghrue",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				37,
+				54
+			],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "upahgn",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				320,
+				-60
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 24,
+			"name": "SANS WAKE UP BITCH",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/extras/Paps/Papyrus",
+	"position": [
+		-100,
+		50
+	],
+	"healthicon": "papiro",
+	"flip_x": false,
+	"healthbar_colors": [
+		180,
+		40,
+		100
+	],
+	"camera_position": [
+		-70,
+		-200
+	],
+	"sing_duration": 6.1,
+	"scale": 1.4
+}

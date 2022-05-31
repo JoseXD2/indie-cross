@@ -1,0 +1,49 @@
+{
+	"storyName": "cumhead",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "cup",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"",
+		"",
+		"cuphead"
+	],
+	"songs": [
+		[
+			"Snake Eyes",
+			"cup",
+			[
+				215,
+				53,
+				113
+			]
+		],
+		[
+			"technicolor-tussle",
+			"cup",
+			[
+				215,
+				33,
+				113
+			]
+		],
+		[
+			"knockout",
+			"cup2",
+			[
+				175,
+				33,
+				113
+			]
+		]
+	],
+	"weekName": "Indie Cross"
+}

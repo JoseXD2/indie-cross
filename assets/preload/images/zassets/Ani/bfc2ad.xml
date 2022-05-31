@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="bfc2ad.png"><SubTexture name="boyfriend dodge instance 0000" x="0" y="0" width="375" height="405" frameX="-3" frameY="-1" frameWidth="381" frameHeight="406" />
+<SubTexture name="boyfriend dodge instance 0001" x="375" y="0" width="375" height="405" frameX="-3" frameY="-1" frameWidth="381" frameHeight="406" />
+<SubTexture name="boyfriend dodge instance 0002" x="750" y="0" width="380" height="402" frameX="0" frameY="-3" frameWidth="381" frameHeight="406" />
+<SubTexture name="boyfriend dodge instance 0003" x="0" y="405" width="381" height="402" frameX="0" frameY="-3" frameWidth="381" frameHeight="406" />
+<SubTexture name="boyfriend dodge instance 0004" x="381" y="405" width="380" height="402" frameX="0" frameY="-3" frameWidth="381" frameHeight="406" />
+<SubTexture name="boyfriend dodge instance 0005" x="1130" y="0" width="380" height="402" frameX="0" frameY="-3" frameWidth="381" frameHeight="406" />
+<SubTexture name="boyfriend dodge instance 0006" x="0" y="405" width="381" height="402" frameX="0" frameY="-2" frameWidth="381" frameHeight="406" />
+<SubTexture name="boyfriend dodge instance 0007" x="381" y="405" width="380" height="402" frameX="0" frameY="-2" frameWidth="381" frameHeight="406" />
+<SubTexture name="boyfriend dodge instance 0008" x="1130" y="0" width="380" height="402" frameX="0" frameY="-2" frameWidth="381" frameHeight="406" />
+<SubTexture name="boyfriend dodge instance 0009" x="0" y="405" width="381" height="402" frameX="0" frameY="-2" frameWidth="381" frameHeight="406" />
+<SubTexture name="boyfriend dodge instance 0010" x="381" y="405" width="380" height="402" frameX="0" frameY="-2" frameWidth="381" frameHeight="406" />
+<SubTexture name="boyfriend dodge instance 0011" x="1130" y="0" width="380" height="402" frameX="0" frameY="-2" frameWidth="381" frameHeight="406" />
+<SubTexture name="boyfriend dodge instance 0012" x="0" y="405" width="381" height="402" frameX="0" frameY="-2" frameWidth="381" frameHeight="406" />
+<SubTexture name="boyfriend dodge instance 0013" x="381" y="405" width="380" height="402" frameX="0" frameY="-2" frameWidth="381" frameHeight="406" />
+</TextureAtlas>

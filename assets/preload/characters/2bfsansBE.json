@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				2,
+				2
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "0Idle instance ",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-63,
+				25
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "BF HEY",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				45,
+				51
+			],
+			"anim": "hurt",
+			"fps": 24,
+			"name": "BF hit",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-4,
+				0
+			],
+			"anim": "scared",
+			"fps": 24,
+			"name": "BF idle shaking",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1119,
+				-10
+			],
+			"anim": "attack",
+			"fps": 24,
+			"name": "0BF attack copy instance ",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-31,
+				-1
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "0EEEE instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-42,
+				55
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "0UPPP instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-19,
+				-32
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "0Ouu instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				72,
+				-6
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "0EERR instance",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/AloSans/Chara",
+	"position": [
+		200,
+		360
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		200,
+		-70
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

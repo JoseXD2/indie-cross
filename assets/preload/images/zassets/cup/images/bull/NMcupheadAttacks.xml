@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="NMcupheadAttacks.png"><SubTexture name="DeathBlast instance 0000" x="0" y="1468" width="996" height="427" frameX="0" frameY="-45" frameWidth="1009" frameHeight="541" />
+<SubTexture name="DeathBlast instance 0001" x="860" y="1008" width="819" height="458" frameX="-173" frameY="-25" frameWidth="1009" frameHeight="541" />
+<SubTexture name="DeathBlast instance 0002" x="0" y="0" width="905" height="520" frameX="-98" frameY="-11" frameWidth="1009" frameHeight="541" />
+<SubTexture name="DeathBlast instance 0003" x="905" y="0" width="929" height="490" frameX="-80" frameY="-6" frameWidth="1009" frameHeight="541" />
+<SubTexture name="DeathBlast instance 0004" x="1834" y="0" width="850" height="450" frameX="-144" frameY="-26" frameWidth="1009" frameHeight="541" />
+<SubTexture name="DeathBlast instance 0005" x="0" y="1008" width="860" height="460" frameX="-132" frameY="-25" frameWidth="1009" frameHeight="541" />
+<SubTexture name="DeathBlast instance 0006" x="0" y="520" width="854" height="488" frameX="-149" frameY="-11" frameWidth="1009" frameHeight="541" />
+<SubTexture name="DeathBlast instance 0007" x="854" y="520" width="929" height="484" frameX="-71" frameY="-22" frameWidth="1009" frameHeight="541" />
+</TextureAtlas>

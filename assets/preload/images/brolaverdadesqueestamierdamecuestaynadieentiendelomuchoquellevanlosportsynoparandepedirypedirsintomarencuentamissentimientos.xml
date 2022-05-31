@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Notmobilegameanymore.png">
+	<!-- Created with Adobe Animate version 22.0.0.93 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Attack Click0000" x="10" y="10" width="174" height="153" frameX="-4" frameY="-3" frameWidth="181" frameHeight="159"/>
+	<SubTexture name="Attack Click0001" x="10" y="10" width="174" height="153" frameX="-4" frameY="-3" frameWidth="181" frameHeight="159"/>
+	<SubTexture name="Attack Click0002" x="194" y="10" width="181" height="159"/>
+	<SubTexture name="Attack Click0003" x="194" y="10" width="181" height="159"/>
+	<SubTexture name="Attack Click0004" x="194" y="10" width="181" height="159"/>
+	<SubTexture name="IAttack0000" x="385" y="10" width="201" height="177"/>
+	<SubTexture name="AttackNA0000" x="596" y="10" width="183" height="207"/>
+	<SubTexture name="AttackNA0001" x="596" y="10" width="183" height="207"/>
+	<SubTexture name="AttackNA0002" x="596" y="10" width="183" height="207"/>
+	<SubTexture name="AttackNA0003" x="596" y="10" width="183" height="207"/>
+	<SubTexture name="AttackNA0004" x="596" y="10" width="183" height="207"/>
+	<SubTexture name="AttackNA0005" x="596" y="10" width="183" height="207"/>
+	<SubTexture name="AttackNA0006" x="596" y="10" width="183" height="207"/>
+	<SubTexture name="AttackNA0007" x="596" y="10" width="183" height="207"/>
+	<SubTexture name="AttackNA0008" x="596" y="10" width="183" height="207"/>
+	<SubTexture name="AttackNA0009" x="596" y="10" width="183" height="207"/>
+	<SubTexture name="AttackNA0010" x="596" y="10" width="183" height="207"/>
+	<SubTexture name="AttackNA0011" x="596" y="10" width="183" height="207"/>
+	<SubTexture name="AttackNA0012" x="596" y="10" width="183" height="207"/>
+	<SubTexture name="AttackNA0013" x="596" y="10" width="183" height="207"/>
+	<SubTexture name="AttackNA0014" x="596" y="10" width="183" height="207"/>
+	<SubTexture name="AttackNA0015" x="596" y="10" width="183" height="207"/>
+	<SubTexture name="AttackNA0016" x="596" y="10" width="183" height="207"/>
+	<SubTexture name="AttackNA0017" x="596" y="10" width="183" height="207"/>
+	<SubTexture name="AttackNA0018" x="596" y="10" width="183" height="207"/>
+	<SubTexture name="AttackNA0019" x="596" y="10" width="183" height="207"/>
+	<SubTexture name="AttackNA0020" x="596" y="10" width="183" height="207"/>
+	<SubTexture name="AttackNA0021" x="596" y="10" width="183" height="207"/>
+	<SubTexture name="AttackNA0022" x="596" y="10" width="183" height="207"/>
+	<SubTexture name="AttackNA0023" x="596" y="10" width="183" height="207"/>
+	<SubTexture name="AttackNA0024" x="596" y="10" width="183" height="207"/>
+	<SubTexture name="AttackNA0025" x="596" y="10" width="183" height="207"/>
+	<SubTexture name="AttackNA0026" x="596" y="10" width="183" height="207"/>
+	<SubTexture name="AttackNA0027" x="596" y="10" width="183" height="207"/>
+	<SubTexture name="AttackNA0028" x="596" y="10" width="183" height="207"/>
+	<SubTexture name="AttackNA0029" x="789" y="10" width="183" height="207"/>
+	<SubTexture name="AttackNA0030" x="789" y="10" width="183" height="207"/>
+	<SubTexture name="AttackNA0031" x="789" y="10" width="183" height="207"/>
+	<SubTexture name="AttackNA0032" x="789" y="10" width="183" height="207"/>
+	<SubTexture name="AttackNA0033" x="789" y="10" width="183" height="207"/>
+	<SubTexture name="AttackNA0034" x="789" y="10" width="183" height="207"/>
+	<SubTexture name="AttackNA0035" x="789" y="10" width="183" height="207"/>
+	<SubTexture name="AttackNA0036" x="789" y="10" width="183" height="207"/>
+	<SubTexture name="AttackNA0037" x="789" y="10" width="183" height="207"/>
+	<SubTexture name="AttackNA0038" x="789" y="10" width="183" height="207"/>
+	<SubTexture name="AttackNA0039" x="789" y="10" width="183" height="207"/>
+	<SubTexture name="AttackNA0040" x="789" y="10" width="183" height="207"/>
+	<SubTexture name="AttackNA0041" x="789" y="10" width="183" height="207"/>
+	<SubTexture name="AttackNA0042" x="789" y="10" width="183" height="207"/>
+	<SubTexture name="AttackNA0043" x="789" y="10" width="183" height="207"/>
+	<SubTexture name="AttackNA0044" x="789" y="10" width="183" height="207"/>
+	<SubTexture name="AttackNA0045" x="789" y="10" width="183" height="207"/>
+	<SubTexture name="AttackNA0046" x="789" y="10" width="183" height="207"/>
+	<SubTexture name="AttackNA0047" x="789" y="10" width="183" height="207"/>
+	<SubTexture name="AttackNA0048" x="789" y="10" width="183" height="207"/>
+	<SubTexture name="AttackNA0049" x="789" y="10" width="183" height="207"/>
+	<SubTexture name="AttackNA0050" x="789" y="10" width="183" height="207"/>
+	<SubTexture name="AttackNA0051" x="789" y="10" width="183" height="207"/>
+	<SubTexture name="AttackNA0052" x="789" y="10" width="183" height="207"/>
+	<SubTexture name="AttackNA0053" x="789" y="10" width="183" height="207"/>
+	<SubTexture name="AttackNA0054" x="789" y="10" width="183" height="207"/>
+	<SubTexture name="AttackNA0055" x="789" y="10" width="183" height="207"/>
+	<SubTexture name="AttackNA0056" x="789" y="10" width="183" height="207"/>
+	<SubTexture name="AttackNA0057" x="789" y="10" width="183" height="207"/>
+	<SubTexture name="AttackNA0058" x="789" y="10" width="183" height="207"/>
+	<SubTexture name="AttackNA0059" x="10" y="227" width="183" height="207"/>
+	<SubTexture name="AttackNA0060" x="10" y="227" width="183" height="207"/>
+	<SubTexture name="AttackNA0061" x="10" y="227" width="183" height="207"/>
+	<SubTexture name="AttackNA0062" x="10" y="227" width="183" height="207"/>
+	<SubTexture name="AttackNA0063" x="10" y="227" width="183" height="207"/>
+	<SubTexture name="AttackNA0064" x="10" y="227" width="183" height="207"/>
+	<SubTexture name="AttackNA0065" x="10" y="227" width="183" height="207"/>
+	<SubTexture name="AttackNA0066" x="10" y="227" width="183" height="207"/>
+	<SubTexture name="AttackNA0067" x="10" y="227" width="183" height="207"/>
+	<SubTexture name="AttackNA0068" x="10" y="227" width="183" height="207"/>
+	<SubTexture name="AttackNA0069" x="10" y="227" width="183" height="207"/>
+	<SubTexture name="AttackNA0070" x="10" y="227" width="183" height="207"/>
+	<SubTexture name="AttackNA0071" x="10" y="227" width="183" height="207"/>
+	<SubTexture name="AttackNA0072" x="10" y="227" width="183" height="207"/>
+	<SubTexture name="AttackNA0073" x="10" y="227" width="183" height="207"/>
+	<SubTexture name="AttackNA0074" x="10" y="227" width="183" height="207"/>
+	<SubTexture name="AttackNA0075" x="10" y="227" width="183" height="207"/>
+	<SubTexture name="AttackNA0076" x="10" y="227" width="183" height="207"/>
+	<SubTexture name="AttackNA0077" x="10" y="227" width="183" height="207"/>
+	<SubTexture name="AttackNA0078" x="10" y="227" width="183" height="207"/>
+	<SubTexture name="AttackNA0079" x="10" y="227" width="183" height="207"/>
+	<SubTexture name="AttackNA0080" x="10" y="227" width="183" height="207"/>
+	<SubTexture name="AttackNA0081" x="10" y="227" width="183" height="207"/>
+	<SubTexture name="AttackNA0082" x="10" y="227" width="183" height="207"/>
+	<SubTexture name="AttackNA0083" x="10" y="227" width="183" height="207"/>
+	<SubTexture name="AttackNA0084" x="10" y="227" width="183" height="207"/>
+	<SubTexture name="AttackNA0085" x="10" y="227" width="183" height="207"/>
+	<SubTexture name="AttackNA0086" x="10" y="227" width="183" height="207"/>
+	<SubTexture name="AttackNA0087" x="10" y="227" width="183" height="207"/>
+	<SubTexture name="AttackNA0088" x="10" y="227" width="183" height="207"/>
+	<SubTexture name="AttackNA0089" x="10" y="227" width="183" height="207"/>
+	<SubTexture name="AttackNA0090" x="203" y="227" width="183" height="207"/>
+	<SubTexture name="AttackNA0091" x="203" y="227" width="183" height="207"/>
+	<SubTexture name="AttackNA0092" x="203" y="227" width="183" height="207"/>
+	<SubTexture name="AttackNA0093" x="203" y="227" width="183" height="207"/>
+	<SubTexture name="AttackNA0094" x="203" y="227" width="183" height="207"/>
+	<SubTexture name="AttackNA0095" x="203" y="227" width="183" height="207"/>
+	<SubTexture name="AttackNA0096" x="203" y="227" width="183" height="207"/>
+	<SubTexture name="AttackNA0097" x="203" y="227" width="183" height="207"/>
+	<SubTexture name="AttackNA0098" x="203" y="227" width="183" height="207"/>
+	<SubTexture name="AttackNA0099" x="203" y="227" width="183" height="207"/>
+	<SubTexture name="AttackNA0100" x="203" y="227" width="183" height="207"/>
+	<SubTexture name="AttackNA0101" x="203" y="227" width="183" height="207"/>
+	<SubTexture name="AttackNA0102" x="203" y="227" width="183" height="207"/>
+	<SubTexture name="AttackNA0103" x="203" y="227" width="183" height="207"/>
+	<SubTexture name="AttackNA0104" x="203" y="227" width="183" height="207"/>
+	<SubTexture name="AttackNA0105" x="203" y="227" width="183" height="207"/>
+	<SubTexture name="AttackNA0106" x="203" y="227" width="183" height="207"/>
+	<SubTexture name="AttackNA0107" x="203" y="227" width="183" height="207"/>
+	<SubTexture name="AttackNA0108" x="203" y="227" width="183" height="207"/>
+	<SubTexture name="AttackNA0109" x="203" y="227" width="183" height="207"/>
+	<SubTexture name="AttackNA0110" x="203" y="227" width="183" height="207"/>
+	<SubTexture name="AttackNA0111" x="203" y="227" width="183" height="207"/>
+	<SubTexture name="AttackNA0112" x="203" y="227" width="183" height="207"/>
+	<SubTexture name="AttackNA0113" x="203" y="227" width="183" height="207"/>
+	<SubTexture name="AttackNA0114" x="203" y="227" width="183" height="207"/>
+	<SubTexture name="AttackNA0115" x="203" y="227" width="183" height="207"/>
+	<SubTexture name="AttackNA0116" x="203" y="227" width="183" height="207"/>
+	<SubTexture name="AttackNA0117" x="203" y="227" width="183" height="207"/>
+	<SubTexture name="AttackNA0118" x="203" y="227" width="183" height="207"/>
+	<SubTexture name="AttackNA0119" x="396" y="227" width="183" height="207"/>
+	<SubTexture name="Dodgeclick0000" x="589" y="227" width="183" height="212" frameX="-4" frameY="-5" frameWidth="191" frameHeight="222"/>
+	<SubTexture name="Dodgeclick0001" x="589" y="227" width="183" height="212" frameX="-4" frameY="-5" frameWidth="191" frameHeight="222"/>
+	<SubTexture name="Dodgeclick0002" x="782" y="227" width="191" height="222"/>
+	<SubTexture name="Dodgeclick0003" x="782" y="227" width="191" height="222"/>
+	<SubTexture name="Dodgeclick0004" x="782" y="227" width="191" height="222"/>
+	<SubTexture name="IDodge0000" x="10" y="459" width="209" height="244"/>
+</TextureAtlas>

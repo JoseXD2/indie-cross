@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="DodgeMechs.png">
+<SubTexture name="Bones boi instance 0000" x="2428" y="1415" width="367" height="119" frameX="-319" frameY="-427" frameWidth="974" frameHeight="546" />
+<SubTexture name="Bones boi instance 0001" x="830" y="1601" width="830" height="261" frameX="0" frameY="-285" frameWidth="974" frameHeight="546" />
+<SubTexture name="Bones boi instance 0002" x="1946" y="1011" width="973" height="404" frameX="0" frameY="-142" frameWidth="974" frameHeight="546" />
+<SubTexture name="Bones boi instance 0003" x="0" y="0" width="973" height="546" frameX="0" frameY="0" frameWidth="974" frameHeight="546" />
+<SubTexture name="Bones boi instance 0004" x="973" y="0" width="973" height="534" frameX="0" frameY="-12" frameWidth="974" frameHeight="546" />
+<SubTexture name="Bones boi instance 0005" x="0" y="546" width="973" height="530" frameX="0" frameY="-16" frameWidth="974" frameHeight="546" />
+<SubTexture name="Bones boi instance 0006" x="0" y="546" width="973" height="530" frameX="0" frameY="-16" frameWidth="974" frameHeight="546" />
+<SubTexture name="Bones boi instance 0007" x="0" y="546" width="973" height="530" frameX="0" frameY="-16" frameWidth="974" frameHeight="546" />
+<SubTexture name="Bones boi instance 0008" x="0" y="546" width="973" height="530" frameX="0" frameY="-16" frameWidth="974" frameHeight="546" />
+<SubTexture name="Bones boi instance 0009" x="0" y="546" width="973" height="530" frameX="0" frameY="-16" frameWidth="974" frameHeight="546" />
+<SubTexture name="Bones boi instance 0010" x="0" y="546" width="973" height="530" frameX="0" frameY="-16" frameWidth="974" frameHeight="546" />
+<SubTexture name="Bones boi instance 0011" x="0" y="546" width="973" height="530" frameX="0" frameY="-16" frameWidth="974" frameHeight="546" />
+<SubTexture name="Bones boi instance 0012" x="0" y="546" width="973" height="530" frameX="0" frameY="-16" frameWidth="974" frameHeight="546" />
+<SubTexture name="Bones boi instance 0013" x="973" y="546" width="973" height="529" frameX="0" frameY="-17" frameWidth="974" frameHeight="546" />
+<SubTexture name="Bones boi instance 0014" x="0" y="1076" width="973" height="525" frameX="0" frameY="-21" frameWidth="974" frameHeight="546" />
+<SubTexture name="Bones boi instance 0015" x="973" y="1076" width="973" height="519" frameX="0" frameY="-27" frameWidth="974" frameHeight="546" />
+<SubTexture name="Bones boi instance 0016" x="1946" y="0" width="973" height="511" frameX="0" frameY="-35" frameWidth="974" frameHeight="546" />
+<SubTexture name="Bones boi instance 0017" x="1946" y="511" width="973" height="500" frameX="0" frameY="-46" frameWidth="974" frameHeight="546" />
+<SubTexture name="Bones boi instance 0018" x="0" y="1601" width="830" height="289" frameX="0" frameY="-257" frameWidth="974" frameHeight="546" />
+<SubTexture name="Bones boi instance 0019" x="1946" y="1415" width="482" height="162" frameX="-204" frameY="-384" frameWidth="974" frameHeight="546" />
+<SubTexture name="Bones boi instance 0020" x="2428" y="1415" width="367" height="119" frameX="-26" frameY="-426" frameWidth="974" frameHeight="546" />
+<SubTexture name="Bones boi instance 0021" x="1660" y="1601" width="197" height="70" frameX="-376" frameY="-476" frameWidth="974" frameHeight="546" />
+</TextureAtlas>

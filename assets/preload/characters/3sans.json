@@ -1,0 +1,133 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				42,
+				-7
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Lefft instance"
+		},
+		{
+			"offsets": [
+				-25,
+				4
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "S-Right instance"
+		},
+		{
+			"offsets": [
+				3,
+				-6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Donw instance"
+		},
+		{
+			"offsets": [
+				-8,
+				21
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Upo instance"
+		},
+		{
+			"offsets": [
+				0,
+				-3
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Sans FNF instance"
+		},
+		{
+			"offsets": [
+				38,
+				85
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "Huesos",
+			"indices": [],
+			"name": "Taste my Lightsaber instance 1"
+		},
+		{
+			"offsets": [
+				25,
+				10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "Sansado",
+			"indices": [],
+			"name": "01 instance 1"
+		},
+		{
+			"offsets": [
+				11,
+				-135
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle-alt",
+			"indices": [],
+			"name": "02 instance 1"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				50,
+				0
+			],
+			"anim": "verga",
+			"fps": 24,
+			"name": "03 instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-17,
+				25
+			],
+			"anim": "uwu",
+			"fps": 24,
+			"name": "1:22 instance 1",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/extras/Paps/Sans_Brrrr",
+	"position": [
+		50,
+		180
+	],
+	"healthicon": "bros",
+	"flip_x": false,
+	"healthbar_colors": [
+		80,
+		100,
+		175
+	],
+	"camera_position": [
+		50,
+		-100
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

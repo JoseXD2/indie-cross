@@ -1,0 +1,166 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Idle No",
+			"indices": []
+		},
+		{
+			"offsets": [
+				106,
+				-61
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Down N"
+		},
+		{
+			"offsets": [
+				77,
+				90
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Up N"
+		},
+		{
+			"offsets": [
+				21,
+				-41
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Right N"
+		},
+		{
+			"offsets": [
+				120,
+				168
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"indices": [],
+			"name": "Right O"
+		},
+		{
+			"offsets": [
+				116,
+				-44
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "ani1",
+			"indices": [],
+			"name": "You've got this"
+		},
+		{
+			"offsets": [
+				0,
+				150
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "ani2",
+			"indices": [],
+			"name": "ugh lowblow"
+		},
+		{
+			"offsets": [
+				236,
+				207
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle-alt",
+			"indices": [],
+			"name": "Oblivion"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				336,
+				156
+			],
+			"anim": "singLEFT-alt",
+			"fps": 24,
+			"name": "Left O",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				175,
+				141
+			],
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "Down O",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				49,
+				286
+			],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "Up O",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-7,
+				-28
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "trans",
+			"indices": [],
+			"name": "T"
+		},
+		{
+			"offsets": [
+				221,
+				-44
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Left instance"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/extras/Daga/BendyDAgames",
+	"position": [
+		94,
+		202
+	],
+	"healthicon": "carton",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		-94,
+		-100
+	],
+	"sing_duration": 4,
+	"scale": 2.9872881356
+}

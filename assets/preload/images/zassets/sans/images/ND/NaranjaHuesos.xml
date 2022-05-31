@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="NaranjaHuesos.png">
+<SubTexture name="NaranjaHuesos0000" x="2426" y="1391" width="310" height="112" frameX="-375" frameY="-426" frameWidth="973" frameHeight="538" />
+<SubTexture name="NaranjaHuesos0001" x="829" y="1577" width="829" height="254" frameX="0" frameY="-284" frameWidth="973" frameHeight="538" />
+<SubTexture name="NaranjaHuesos0002" x="1944" y="995" width="972" height="396" frameX="0" frameY="-142" frameWidth="973" frameHeight="538" />
+<SubTexture name="NaranjaHuesos0003" x="0" y="0" width="972" height="538" frameX="0" frameY="0" frameWidth="973" frameHeight="538" />
+<SubTexture name="NaranjaHuesos0004" x="972" y="0" width="972" height="526" frameX="0" frameY="-12" frameWidth="973" frameHeight="538" />
+<SubTexture name="NaranjaHuesos0005" x="0" y="538" width="972" height="522" frameX="0" frameY="-16" frameWidth="973" frameHeight="538" />
+<SubTexture name="NaranjaHuesos0006" x="0" y="538" width="972" height="522" frameX="0" frameY="-16" frameWidth="973" frameHeight="538" />
+<SubTexture name="NaranjaHuesos0007" x="0" y="538" width="972" height="522" frameX="0" frameY="-16" frameWidth="973" frameHeight="538" />
+<SubTexture name="NaranjaHuesos0008" x="0" y="538" width="972" height="522" frameX="0" frameY="-16" frameWidth="973" frameHeight="538" />
+<SubTexture name="NaranjaHuesos0009" x="0" y="538" width="972" height="522" frameX="0" frameY="-16" frameWidth="973" frameHeight="538" />
+<SubTexture name="NaranjaHuesos0010" x="0" y="538" width="972" height="522" frameX="0" frameY="-16" frameWidth="973" frameHeight="538" />
+<SubTexture name="NaranjaHuesos0011" x="0" y="538" width="972" height="522" frameX="0" frameY="-16" frameWidth="973" frameHeight="538" />
+<SubTexture name="NaranjaHuesos0012" x="0" y="538" width="972" height="522" frameX="0" frameY="-16" frameWidth="973" frameHeight="538" />
+<SubTexture name="NaranjaHuesos0013" x="972" y="538" width="972" height="521" frameX="0" frameY="-17" frameWidth="973" frameHeight="538" />
+<SubTexture name="NaranjaHuesos0014" x="0" y="1060" width="972" height="517" frameX="0" frameY="-21" frameWidth="973" frameHeight="538" />
+<SubTexture name="NaranjaHuesos0015" x="972" y="1060" width="972" height="511" frameX="0" frameY="-27" frameWidth="973" frameHeight="538" />
+<SubTexture name="NaranjaHuesos0016" x="1944" y="0" width="972" height="503" frameX="0" frameY="-35" frameWidth="973" frameHeight="538" />
+<SubTexture name="NaranjaHuesos0017" x="1944" y="503" width="972" height="492" frameX="0" frameY="-46" frameWidth="973" frameHeight="538" />
+<SubTexture name="NaranjaHuesos0018" x="0" y="1577" width="829" height="281" frameX="0" frameY="-257" frameWidth="973" frameHeight="538" />
+<SubTexture name="NaranjaHuesos0019" x="1944" y="1391" width="482" height="154" frameX="-203" frameY="-384" frameWidth="973" frameHeight="538" />
+</TextureAtlas>

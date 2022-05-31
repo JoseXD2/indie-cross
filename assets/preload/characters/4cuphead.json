@@ -1,0 +1,166 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				20,
+				87
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Idle"
+		},
+		{
+			"offsets": [
+				213,
+				-27
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Left"
+		},
+		{
+			"offsets": [
+				87,
+				32
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Right"
+		},
+		{
+			"offsets": [
+				129,
+				214
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Up"
+		},
+		{
+			"offsets": [
+				38,
+				10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Down"
+		},
+		{
+			"offsets": [
+				164,
+				-37
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "Bloqueo",
+			"indices": [],
+			"name": "Dodgez"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				22,
+				26
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 24,
+			"name": "ShootRight",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				128,
+				71
+			],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "ShootUp",
+			"indices": []
+		},
+		{
+			"offsets": [
+				133,
+				-50
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"indices": [],
+			"name": "ShootLeft"
+		},
+		{
+			"offsets": [
+				58,
+				8
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"indices": [],
+			"name": "ShootDown"
+		},
+		{
+			"offsets": [
+				28,
+				120
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "Round",
+			"indices": [],
+			"name": "Hadoken or Roundabout"
+		},
+		{
+			"offsets": [
+				-19,
+				-167
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "die",
+			"indices": [],
+			"name": "Beamm"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				16,
+				120
+			],
+			"anim": "Hadoken",
+			"fps": 30,
+			"name": "Hadoken or Roundabout",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Nightmare/Cuphead/Nightmare_Cuphead",
+	"position": [
+		50,
+		130
+	],
+	"healthicon": "cupn",
+	"flip_x": false,
+	"healthbar_colors": [
+		175,
+		20,
+		100
+	],
+	"camera_position": [
+		-130,
+		0
+	],
+	"sing_duration": 3,
+	"scale": 1.3
+}

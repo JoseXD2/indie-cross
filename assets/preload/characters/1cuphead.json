@@ -1,0 +1,164 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				20,
+				36
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Cuphead_standing instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				100,
+				20
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Left instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-20,
+				20
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Right instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-6,
+				116
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Up instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-30,
+				6
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Down instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				180,
+				140
+			],
+			"anim": "Bloqueo",
+			"fps": 24,
+			"name": "Hurt instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				20,
+				30
+			],
+			"anim": "Shoot",
+			"fps": 24,
+			"name": "Shoot instance",
+			"indices": []
+		},
+		{
+			"offsets": [
+				100,
+				20
+			],
+			"indices": [
+				11,
+				12,
+				13,
+				14
+			],
+			"fps": 24,
+			"anim": "singLEFT-loop",
+			"loop": false,
+			"name": "Left instance"
+		},
+		{
+			"offsets": [
+				-20,
+				20
+			],
+			"indices": [
+				11,
+				12,
+				13,
+				14
+			],
+			"fps": 24,
+			"anim": "singRIGHT-loop",
+			"loop": false,
+			"name": "Right instance"
+		},
+		{
+			"offsets": [
+				-6,
+				116
+			],
+			"indices": [
+				11,
+				12,
+				13,
+				14
+			],
+			"fps": 24,
+			"anim": "singUP-loop",
+			"loop": false,
+			"name": "Up instance"
+		},
+		{
+			"offsets": [
+				-30,
+				6
+			],
+			"indices": [
+				11,
+				12,
+				13,
+				14
+			],
+			"fps": 24,
+			"anim": "singDOWN-loop",
+			"loop": false,
+			"name": "Down instance"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Cumhead/Cuphead_Remastered",
+	"position": [
+		50,
+		350
+	],
+	"healthicon": "cup",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		60,
+		140
+	],
+	"camera_position": [
+		-130,
+		-200
+	],
+	"sing_duration": 4,
+	"scale": 1.7
+}

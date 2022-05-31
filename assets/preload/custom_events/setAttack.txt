@@ -1,0 +1,7 @@
+set the attack
+value 1 - attack
+
+--blasters
+--blasterCross
+--blasters_r
+--blasters_s

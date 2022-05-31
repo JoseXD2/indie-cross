@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="HorrorVision.png"><SubTexture name="Add instance 0000" x="1994" y="1171" width="1945" height="1117" frameX="-62" frameY="-13" frameWidth="2039" frameHeight="1174" />
+<SubTexture name="Add instance 0001" x="0" y="2295" width="2013" height="1119" frameX="0" frameY="-13" frameWidth="2039" frameHeight="1174" />
+<SubTexture name="Add instance 0002" x="2013" y="2295" width="1945" height="1117" frameX="-62" frameY="-13" frameWidth="2039" frameHeight="1174" />
+<SubTexture name="Add instance 0003" x="0" y="0" width="1989" height="1171" frameX="-28" frameY="0" frameWidth="2039" frameHeight="1174" />
+<SubTexture name="Add instance 0004" x="3998" y="0" width="1945" height="1117" frameX="-62" frameY="-13" frameWidth="2039" frameHeight="1174" />
+<SubTexture name="Add instance 0005" x="0" y="1171" width="1994" height="1124" frameX="-42" frameY="-13" frameWidth="2039" frameHeight="1174" />
+<SubTexture name="Add instance 0006" x="3998" y="1117" width="1945" height="1117" frameX="-62" frameY="-13" frameWidth="2039" frameHeight="1174" />
+<SubTexture name="Add instance 0007" x="1989" y="0" width="2009" height="1130" frameX="-27" frameY="-4" frameWidth="2039" frameHeight="1174" />
+<SubTexture name="Add instance 0008" x="3998" y="2234" width="1945" height="1117" frameX="-62" frameY="-13" frameWidth="2039" frameHeight="1174" />
+<SubTexture name="Add instance 0009" x="3998" y="0" width="1945" height="1117" frameX="-62" frameY="-13" frameWidth="2039" frameHeight="1174" />
+</TextureAtlas>

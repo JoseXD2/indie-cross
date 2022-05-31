@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Cardodge.png">
+<SubTexture name="Alarm instance0000" x="0" y="0" width="910" height="498" frameX="-1" frameY="0" frameWidth="911" frameHeight="498" />
+<SubTexture name="Alarm instance0001" x="910" y="0" width="910" height="498" frameX="-1" frameY="0" frameWidth="911" frameHeight="498" />
+<SubTexture name="Alarm instance0002" x="0" y="0" width="910" height="498" frameX="0" frameY="0" frameWidth="911" frameHeight="498" />
+<SubTexture name="Alarm instance0003" x="910" y="0" width="910" height="498" frameX="0" frameY="0" frameWidth="911" frameHeight="498" />
+<SubTexture name="Alarm instance0004" x="0" y="0" width="910" height="498" frameX="0" frameY="0" frameWidth="911" frameHeight="498" />
+<SubTexture name="Alarm instance0005" x="910" y="0" width="910" height="498" frameX="0" frameY="0" frameWidth="911" frameHeight="498" />
+<SubTexture name="Alarm instance0006" x="0" y="0" width="910" height="498" frameX="0" frameY="0" frameWidth="911" frameHeight="498" />
+<SubTexture name="Alarm instance0007" x="910" y="0" width="910" height="498" frameX="0" frameY="0" frameWidth="911" frameHeight="498" />
+<SubTexture name="Alarm instance0008" x="0" y="0" width="910" height="498" frameX="0" frameY="0" frameWidth="1000" frameHeight="599" />
+</TextureAtlas>

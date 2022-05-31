@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Butchergang_Bg.png"><SubTexture name="Butchergang_Bg0000" x="0" y="594" width="1196" height="550" frameX="-2" frameY="-30" frameWidth="1229" frameHeight="601" />
+<SubTexture name="Butchergang_Bg0001" x="0" y="594" width="1196" height="550" frameX="0" frameY="-28" frameWidth="1229" frameHeight="601" />
+<SubTexture name="Butchergang_Bg0002" x="0" y="0" width="1181" height="594" frameX="-22" frameY="-2" frameWidth="1229" frameHeight="601" />
+<SubTexture name="Butchergang_Bg0003" x="0" y="0" width="1181" height="594" frameX="-20" frameY="0" frameWidth="1229" frameHeight="601" />
+<SubTexture name="Butchergang_Bg0004" x="1181" y="0" width="1193" height="582" frameX="-16" frameY="-10" frameWidth="1229" frameHeight="601" />
+<SubTexture name="Butchergang_Bg0005" x="1181" y="0" width="1193" height="582" frameX="-14" frameY="-8" frameWidth="1229" frameHeight="601" />
+<SubTexture name="Butchergang_Bg0006" x="1181" y="0" width="1193" height="582" frameX="-14" frameY="-8" frameWidth="1229" frameHeight="601" />
+</TextureAtlas>

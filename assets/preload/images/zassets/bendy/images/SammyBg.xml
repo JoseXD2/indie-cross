@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="SammyBg.png"><SubTexture name="SammyBg0000" x="909" y="0" width="315" height="653" frameX="0" frameY="-29" frameWidth="315" frameHeight="683" />
+<SubTexture name="SammyBg0001" x="909" y="0" width="315" height="653" frameX="0" frameY="-29" frameWidth="315" frameHeight="683" />
+<SubTexture name="SammyBg0002" x="606" y="0" width="303" height="668" frameX="-6" frameY="-15" frameWidth="315" frameHeight="683" />
+<SubTexture name="SammyBg0003" x="606" y="0" width="303" height="668" frameX="-6" frameY="-15" frameWidth="315" frameHeight="683" />
+<SubTexture name="SammyBg0004" x="303" y="0" width="303" height="672" frameX="-7" frameY="-10" frameWidth="315" frameHeight="683" />
+<SubTexture name="SammyBg0005" x="303" y="0" width="303" height="672" frameX="-7" frameY="-9" frameWidth="315" frameHeight="683" />
+<SubTexture name="SammyBg0006" x="0" y="0" width="303" height="676" frameX="-7" frameY="-6" frameWidth="315" frameHeight="683" />
+</TextureAtlas>

@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Parry_assets 1.png">
+<SubTexture name="Parry_assets 10000" x="974" y="549" width="448" height="493" frameX="-45" frameY="-25" frameWidth="520" frameHeight="549" />
+<SubTexture name="Parry_assets 10001" x="1469" y="492" width="412" height="463" frameX="-55" frameY="-35" frameWidth="520" frameHeight="549" />
+<SubTexture name="Parry_assets 10002" x="0" y="1052" width="431" height="458" frameX="-46" frameY="-48" frameWidth="520" frameHeight="549" />
+<SubTexture name="Parry_assets 10003" x="1469" y="0" width="451" height="492" frameX="-38" frameY="-27" frameWidth="520" frameHeight="549" />
+<SubTexture name="Parry_assets 10004" x="0" y="549" width="469" height="503" frameX="-31" frameY="-21" frameWidth="520" frameHeight="549" />
+<SubTexture name="Parry_assets 10005" x="984" y="0" width="485" height="520" frameX="-24" frameY="-12" frameWidth="520" frameHeight="549" />
+<SubTexture name="Parry_assets 10006" x="482" y="0" width="502" height="534" frameX="-18" frameY="-5" frameWidth="520" frameHeight="549" />
+<SubTexture name="Parry_assets 10007" x="0" y="0" width="482" height="549" frameX="-10" frameY="0" frameWidth="520" frameHeight="549" />
+<SubTexture name="Parry_assets 10008" x="469" y="549" width="505" height="503" frameX="0" frameY="-41" frameWidth="520" frameHeight="549" />
+</TextureAtlas>

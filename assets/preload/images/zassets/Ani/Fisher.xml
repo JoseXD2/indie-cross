@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Fisher.png"><SubTexture name="WalkingFish from the Right instance 0000" x="637" y="1787" width="461" height="388" frameX="-314" frameY="-317" frameWidth="775" frameHeight="838" />
+<SubTexture name="WalkingFish from the Right instance 0001" x="2301" y="1521" width="499" height="342" frameX="-261" frameY="-361" frameWidth="775" frameHeight="838" />
+<SubTexture name="WalkingFish from the Right instance 0002" x="1098" y="1787" width="627" height="385" frameX="-126" frameY="-343" frameWidth="775" frameHeight="838" />
+<SubTexture name="WalkingFish from the Right instance 0003" x="1044" y="0" width="634" height="602" frameX="-101" frameY="-95" frameWidth="775" frameHeight="838" />
+<SubTexture name="WalkingFish from the Right instance 0004" x="1678" y="589" width="593" height="582" frameX="-145" frameY="-111" frameWidth="775" frameHeight="838" />
+<SubTexture name="WalkingFish from the Right instance 0005" x="0" y="0" width="522" height="603" frameX="-219" frameY="-80" frameWidth="775" frameHeight="838" />
+<SubTexture name="WalkingFish from the Right instance 0006" x="2301" y="769" width="564" height="376" frameX="-169" frameY="-354" frameWidth="775" frameHeight="838" />
+<SubTexture name="WalkingFish from the Right instance 0007" x="1526" y="1205" width="636" height="463" frameX="-101" frameY="-261" frameWidth="775" frameHeight="838" />
+<SubTexture name="WalkingFish from the Right instance 0008" x="635" y="603" width="623" height="589" frameX="-123" frameY="-111" frameWidth="775" frameHeight="838" />
+<SubTexture name="WalkingFish from the Right instance 0009" x="593" y="1205" width="476" height="533" frameX="-292" frameY="-167" frameWidth="775" frameHeight="838" />
+<SubTexture name="WalkingFish instance 0000" x="2301" y="385" width="461" height="384" frameX="0" frameY="-321" frameWidth="776" frameHeight="839" />
+<SubTexture name="WalkingFish instance 0001" x="2301" y="1863" width="498" height="342" frameX="-16" frameY="-361" frameWidth="776" frameHeight="839" />
+<SubTexture name="WalkingFish instance 0002" x="2301" y="0" width="627" height="385" frameX="-23" frameY="-343" frameWidth="776" frameHeight="839" />
+<SubTexture name="WalkingFish instance 0003" x="0" y="603" width="635" height="602" frameX="-40" frameY="-95" frameWidth="776" frameHeight="839" />
+<SubTexture name="WalkingFish instance 0004" x="0" y="1205" width="593" height="582" frameX="-38" frameY="-111" frameWidth="776" frameHeight="839" />
+<SubTexture name="WalkingFish instance 0005" x="522" y="0" width="522" height="603" frameX="-35" frameY="-80" frameWidth="776" frameHeight="839" />
+<SubTexture name="WalkingFish instance 0006" x="2301" y="1145" width="565" height="376" frameX="-42" frameY="-354" frameWidth="776" frameHeight="839" />
+<SubTexture name="WalkingFish instance 0007" x="0" y="1787" width="637" height="463" frameX="-39" frameY="-260" frameWidth="776" frameHeight="839" />
+<SubTexture name="WalkingFish instance 0008" x="1678" y="0" width="623" height="589" frameX="-30" frameY="-111" frameWidth="776" frameHeight="839" />
+<SubTexture name="WalkingFish instance 0009" x="1069" y="1205" width="457" height="495" frameX="-8" frameY="-205" frameWidth="776" frameHeight="839" />
+</TextureAtlas>

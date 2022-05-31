@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				76,
+				34
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "miss",
+			"indices": [],
+			"name": "Miss instance"
+		},
+		{
+			"offsets": [
+				34,
+				2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "LeftUT"
+		},
+		{
+			"offsets": [
+				7,
+				17
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "UpUT instance"
+		},
+		{
+			"offsets": [
+				9,
+				1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "DownUT instance"
+		},
+		{
+			"offsets": [
+				8,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "RightUT instance"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "EReree ee"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/AloSans/Sans_but_Rip_colors",
+	"position": [
+		130,
+		590
+	],
+	"healthicon": "sans",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		55,
+		195
+	],
+	"camera_position": [
+		-70,
+		270
+	],
+	"sing_duration": 4,
+	"scale": 0.6
+}

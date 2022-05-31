@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="MobileGame.png"><SubTexture name="Attack Avaiable instance 0000" x="0" y="0" width="232" height="231" frameX="0" frameY="-1" frameWidth="232" frameHeight="232" />
+<SubTexture name="Attack Click instance 0000" x="211" y="462" width="173" height="173" frameX="-30" frameY="-30" frameWidth="233" frameHeight="233" />
+<SubTexture name="Attack Click instance 0001" x="0" y="462" width="211" height="211" frameX="-11" frameY="-11" frameWidth="233" frameHeight="233" />
+<SubTexture name="Attack Click instance 0002" x="463" y="226" width="221" height="220" frameX="-6" frameY="-7" frameWidth="233" frameHeight="233" />
+<SubTexture name="Attack Click instance 0003" x="463" y="0" width="227" height="226" frameX="-3" frameY="-4" frameWidth="233" frameHeight="233" />
+<SubTexture name="Attack Click instance 0004" x="232" y="231" width="231" height="230" frameX="-1" frameY="-2" frameWidth="233" frameHeight="233" />
+<SubTexture name="Dodge Available instance 0000" x="232" y="0" width="231" height="231" frameX="-1" frameY="-1" frameWidth="233" frameHeight="232" />
+<SubTexture name="Dodge not Avaiblefze instance 0000" x="0" y="231" width="232" height="231" frameX="0" frameY="-1" frameWidth="233" frameHeight="233" />
+</TextureAtlas>

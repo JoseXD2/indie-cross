@@ -1,0 +1,188 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				20,
+				36
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "1 instance"
+		},
+		{
+			"offsets": [
+				131,
+				30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singsxLEFT",
+			"indices": [],
+			"name": "Left instance"
+		},
+		{
+			"offsets": [
+				-29,
+				67
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singxsRIGHT",
+			"indices": [],
+			"name": "Right instance"
+		},
+		{
+			"offsets": [
+				52,
+				161
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singsxUP",
+			"indices": [],
+			"name": "Up instance"
+		},
+		{
+			"offsets": [
+				-21,
+				-1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singsxDOWN",
+			"indices": [],
+			"name": "Down instance"
+		},
+		{
+			"offsets": [
+				110,
+				10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "Bloqueo",
+			"indices": [],
+			"name": "Ouch instance"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-20,
+				64
+			],
+			"anim": "singxRIGHT",
+			"fps": 24,
+			"name": "PewRight instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				69,
+				115
+			],
+			"anim": "singxUP",
+			"fps": 24,
+			"name": "PewUp instance",
+			"indices": []
+		},
+		{
+			"offsets": [
+				125,
+				-3
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singxLEFT",
+			"indices": [],
+			"name": "Pewleft instance"
+		},
+		{
+			"offsets": [
+				-10,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singxDOWN",
+			"indices": [],
+			"name": "pewdown instance"
+		},
+		{
+			"offsets": [
+				48,
+				36
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "Round",
+			"indices": [],
+			"name": "Roundattack instance"
+		},
+		{
+			"offsets": [
+				-22,
+				-2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Phase 2 instance"
+		},
+		{
+			"offsets": [
+				-17,
+				-1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "Phase 2S",
+			"indices": [],
+			"name": "Phase 2 starts instance"
+		},
+		{
+			"offsets": [
+				29,
+				22
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "die",
+			"indices": [],
+			"name": "DIE BITCH instance"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				340,
+				310
+			],
+			"anim": "Hadoken",
+			"fps": 30,
+			"name": "Hadoken!! instance",
+			"indices": []
+		}
+	],
+	"no_antialiasingx": false,
+	"image": "characters/Cumhead/Cuphead Pissed",
+	"position": [
+		50,
+		350
+	],
+	"healthicon": "cup2",
+	"flip_x": false,
+	"healthbar_colors": [
+		175,
+		20,
+		100
+	],
+	"camera_position": [
+		-100,
+		-130
+	],
+	"sing_duration": 4,
+	"scale": 1.7
+}

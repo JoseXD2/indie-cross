@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Striker.png">
+<SubTexture name="Striker key_shiftbutton0000" x="0" y="0" width="126" height="59" frameX="0" frameY="0" frameWidth="126" frameHeight="59" />
+<SubTexture name="Striker key_shiftPress0000" x="0" y="59" width="126" height="59" frameX="0" frameY="0" frameWidth="126" frameHeight="59" />
+</TextureAtlas>

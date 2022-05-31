@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-160,
+				50
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Sammy Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				289,
+				17
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Left",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-29,
+				-73
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				54,
+				94
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-15,
+				-48
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-19,
+				-5
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "Ataque",
+			"indices": [],
+			"name": "Axe attack"
+		},
+		{
+			"offsets": [
+				-39,
+				-28
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "end1",
+			"indices": [],
+			"name": "EnPart"
+		},
+		{
+			"offsets": [
+				-12,
+				76
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "end2",
+			"indices": [],
+			"name": "End"
+		},
+		{
+			"offsets": [
+				545,
+				184
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "Intro",
+			"indices": [],
+			"name": "Intro"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/extras/Ritual/SammyRemastered",
+	"position": [
+		-100,
+		50
+	],
+	"healthicon": "esependejo",
+	"flip_x": false,
+	"healthbar_colors": [
+		100,
+		40,
+		0
+	],
+	"camera_position": [
+		20,
+		-50
+	],
+	"sing_duration": 6.1,
+	"scale": 1.4
+}

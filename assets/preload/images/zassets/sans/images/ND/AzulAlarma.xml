@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="AzulAlarma.png">
+<SubTexture name="AzulAlarma0000" x="0" y="0" width="912" height="502" frameX="0" frameY="0" frameWidth="913" frameHeight="503" />
+<SubTexture name="AzulAlarma0001" x="0" y="502" width="895" height="16" frameX="-17" frameY="-486" frameWidth="913" frameHeight="503" />
+<SubTexture name="AzulAlarma0002" x="0" y="0" width="912" height="502" frameX="0" frameY="0" frameWidth="913" frameHeight="503" />
+<SubTexture name="AzulAlarma0003" x="0" y="502" width="895" height="16" frameX="-17" frameY="-486" frameWidth="913" frameHeight="503" />
+<SubTexture name="AzulAlarma0004" x="0" y="0" width="912" height="502" frameX="0" frameY="0" frameWidth="913" frameHeight="503" />
+<SubTexture name="AzulAlarma0005" x="0" y="502" width="895" height="16" frameX="-17" frameY="-486" frameWidth="913" frameHeight="503" />
+<SubTexture name="AzulAlarma0006" x="0" y="0" width="912" height="502" frameX="0" frameY="0" frameWidth="913" frameHeight="503" />
+</TextureAtlas>

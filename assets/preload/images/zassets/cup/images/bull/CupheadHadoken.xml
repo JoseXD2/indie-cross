@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="CupheadHadoken.png">
+<SubTexture name="CupheadHadoken0000" x="0" y="1493" width="1222" height="469" frameX="0" frameY="-22" frameWidth="1238" frameHeight="550" />
+<SubTexture name="CupheadHadoken0001" x="1054" y="515" width="1004" height="472" frameX="-212" frameY="-25" frameWidth="1238" frameHeight="550" />
+<SubTexture name="CupheadHadoken0002" x="2182" y="0" width="1110" height="459" frameX="-120" frameY="-30" frameWidth="1238" frameHeight="550" />
+<SubTexture name="CupheadHadoken0003" x="0" y="1013" width="1140" height="480" frameX="-98" frameY="-24" frameWidth="1238" frameHeight="550" />
+<SubTexture name="CupheadHadoken0004" x="0" y="0" width="1042" height="515" frameX="-177" frameY="0" frameWidth="1238" frameHeight="550" />
+<SubTexture name="CupheadHadoken0005" x="0" y="515" width="1054" height="498" frameX="-162" frameY="-27" frameWidth="1238" frameHeight="550" />
+<SubTexture name="CupheadHadoken0006" x="2182" y="459" width="1047" height="456" frameX="-183" frameY="-43" frameWidth="1238" frameHeight="550" />
+<SubTexture name="CupheadHadoken0007" x="1042" y="0" width="1140" height="503" frameX="-87" frameY="-46" frameWidth="1238" frameHeight="550" />
+</TextureAtlas>

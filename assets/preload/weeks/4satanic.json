@@ -1,0 +1,31 @@
+{
+	"storyName": "Indie Cross",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"songs": [
+		[
+			"Satanic-funkin",
+			"devil",
+			[
+				60,
+				60,
+				100
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekCharacters": [
+		"",
+		"bf",
+		""
+	],
+	"weekName": "Indie Cross"
+}

@@ -1,0 +1,31 @@
+{
+	"storyName": "Indie Cross",
+	"difficulties": "demonic",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"songs": [
+		[
+			"despair",
+			"bendyn",
+			[
+				255,
+				200,
+				0
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"bf",
+		""
+	],
+	"hideStoryMode": true,
+	"weekName": "Indie Cross"
+}

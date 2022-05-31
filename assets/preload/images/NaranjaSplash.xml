@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="AllnoteSplashes.png">
+<SubTexture name="note splash orange 10000" x="0" y="504" width="209" height="197" frameX="-39" frameY="-30" frameWidth="278" frameHeight="264" />
+<SubTexture name="note splash orange 10001" x="525" y="216" width="223" height="206" frameX="-19" frameY="-31" frameWidth="278" frameHeight="264" />
+<SubTexture name="note splash orange 10002" x="525" y="0" width="228" height="216" frameX="-19" frameY="-26" frameWidth="278" frameHeight="264" />
+<SubTexture name="note splash orange 10003" x="241" y="262" width="230" height="230" frameX="-24" frameY="-19" frameWidth="278" frameHeight="264" />
+<SubTexture name="note splash orange 10004" x="0" y="262" width="241" height="242" frameX="-18" frameY="-13" frameWidth="278" frameHeight="264" />
+<SubTexture name="note splash orange 10005" x="269" y="0" width="256" height="256" frameX="-11" frameY="-6" frameWidth="278" frameHeight="264" />
+<SubTexture name="note splash orange 10006" x="0" y="0" width="269" height="262" frameX="-4" frameY="0" frameWidth="278" frameHeight="264" />
+<SubTexture name="note splash orange 10007" x="209" y="504" width="277" height="163" frameX="0" frameY="-65" frameWidth="278" frameHeight="264" />
+</TextureAtlas>

@@ -1,0 +1,58 @@
+{
+	"storyName": "eso bendyn vaya bendyn",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"bendy",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Imminent-demise",
+			"carton",
+			[
+				40,
+				40,
+				40
+			]
+		],
+		[
+			"Terrible-Sin",
+			"bendy",
+			[
+				40,
+				40,
+				40
+			]
+		],
+		[
+			"Last-Reel",
+			"bendy",
+			[
+				40,
+				40,
+				40
+			]
+		],
+		[
+			"Nightmare-Run",
+			"bendy",
+			[
+				40,
+				40,
+				40
+			]
+		]
+	],
+	"weekName": "Indie Cross"
+}

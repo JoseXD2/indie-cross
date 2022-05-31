@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				146,
+				84
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Left",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-158,
+				-279
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-106,
+				390
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-143,
+				130
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "FUCK YOU",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-70,
+				70
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "DeathBendy"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Nightmare/Bendy/NMB",
+	"position": [
+		-50,
+		-360
+	],
+	"healthicon": "bendy",
+	"flip_x": false,
+	"healthbar_colors": [
+		20,
+		20,
+		20
+	],
+	"camera_position": [
+		-200,
+		-450
+	],
+	"sing_duration": 6.1,
+	"scale": 2.4
+}

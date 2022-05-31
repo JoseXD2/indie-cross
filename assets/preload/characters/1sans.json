@@ -1,0 +1,177 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Sans FNF"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				22,
+				0
+			],
+			"anim": "eee",
+			"fps": 24,
+			"name": "Switch to UT mode",
+			"indices": []
+		},
+		{
+			"offsets": [
+				35,
+				1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"indices": [],
+			"name": "02Left"
+		},
+		{
+			"offsets": [
+				-24,
+				-2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"indices": [],
+			"name": "02Right"
+		},
+		{
+			"offsets": [
+				-21,
+				-14
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"indices": [],
+			"name": "02Down"
+		},
+		{
+			"offsets": [
+				27,
+				29
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP-alt",
+			"indices": [],
+			"name": "02Up"
+		},
+		{
+			"offsets": [
+				34,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Left"
+		},
+		{
+			"offsets": [
+				-19,
+				-13
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNL",
+			"indices": [],
+			"name": "LargaDown"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-26,
+				30
+			],
+			"anim": "singUPL",
+			"fps": 24,
+			"name": "LargaUp",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-21,
+				0
+			],
+			"anim": "singRIGHTL",
+			"fps": 24,
+			"name": "LargaRight",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				43,
+				0
+			],
+			"anim": "singLEFTL",
+			"fps": 24,
+			"name": "LargaLeft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-26,
+				-1
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-26,
+				28
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-20,
+				-15
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Down",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/AloSans/Sans",
+	"position": [
+		50,
+		200
+	],
+	"healthicon": "sans",
+	"flip_x": false,
+	"healthbar_colors": [
+		80,
+		100,
+		175
+	],
+	"camera_position": [
+		100,
+		-30
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

@@ -1,0 +1,41 @@
+{
+	"storyName": "Indie Cross",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"weekCharacters": [
+		"",
+		"bf",
+		""
+	],
+	"songs": [
+		[
+			"final-Stretch",
+			"sans",
+			[
+				0,
+				140,
+				255
+			]
+		],
+		[
+			"Burning-in-hell",
+			"sans2",
+			[
+				55,
+				0,
+				0
+			]
+		]
+	],
+	"weekName": "Indie Cross",
+	"hiddenUntilUnlocked": false
+}

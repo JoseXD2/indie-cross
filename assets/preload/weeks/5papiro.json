@@ -1,0 +1,31 @@
+{
+	"storyName": "Indie Cross",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"weekCharacters": [
+		"",
+		"bf",
+		""
+	],
+	"songs": [
+		[
+			"Bad-to-the-bone",
+			"papiro",
+			[
+				195,
+				40,
+				100
+			]
+		]
+	],
+	"weekName": "Indie Cross"
+}

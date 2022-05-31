@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="UI_assets.png"><SubTexture name="nightmare bendy normal0000" x="384" y="0" width="117" height="114" frameX="-26" frameY="-6" frameWidth="153" frameHeight="144" />
+<SubTexture name="nightmare bendy normal0001" x="384" y="114" width="117" height="113" frameX="-26" frameY="-7" frameWidth="153" frameHeight="144" />
+<SubTexture name="nightmare bendy normal0002" x="233" y="0" width="151" height="142" frameX="-1" frameY="-1" frameWidth="153" frameHeight="144" />
+<SubTexture name="nightmare bendy normal0003" x="384" y="227" width="117" height="113" frameX="-27" frameY="-7" frameWidth="153" frameHeight="144" />
+<SubTexture name="nightmare bendy win0000" x="0" y="219" width="153" height="142" frameX="-40" frameY="-37" frameWidth="235" frameHeight="220" />
+<SubTexture name="nightmare bendy win0001" x="153" y="219" width="120" height="116" frameX="-68" frameY="-47" frameWidth="235" frameHeight="220" />
+<SubTexture name="nightmare bendy win0002" x="0" y="0" width="233" height="219" frameX="-2" frameY="0" frameWidth="235" frameHeight="220" />
+<SubTexture name="nightmare bendy win0003" x="0" y="361" width="117" height="111" frameX="-70" frameY="-51" frameWidth="235" frameHeight="220" />
+</TextureAtlas>

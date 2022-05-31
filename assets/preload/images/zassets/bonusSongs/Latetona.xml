@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="That Annoying Bitch.png"><SubTexture name="BoiRun instance 0000" x="1320" y="446" width="614" height="438" frameX="-42" frameY="-35" frameWidth="746" frameHeight="499" />
+<SubTexture name="BoiRun instance 0001" x="672" y="1389" width="554" height="412" frameX="-55" frameY="-61" frameWidth="746" frameHeight="499" />
+<SubTexture name="BoiRun instance 0002" x="1226" y="1389" width="505" height="408" frameX="-69" frameY="-63" frameWidth="746" frameHeight="499" />
+<SubTexture name="BoiRun instance 0003" x="1980" y="0" width="489" height="398" frameX="-82" frameY="-73" frameWidth="746" frameHeight="499" />
+<SubTexture name="BoiRun instance 0004" x="1353" y="945" width="578" height="431" frameX="-42" frameY="-43" frameWidth="746" frameHeight="499" />
+<SubTexture name="BoiRun instance 0005" x="695" y="0" width="625" height="473" frameX="-38" frameY="0" frameWidth="746" frameHeight="499" />
+<SubTexture name="BoiRun instance 0006" x="0" y="474" width="643" height="471" frameX="-45" frameY="-9" frameWidth="746" frameHeight="499" />
+<SubTexture name="BoiRun instance 0007" x="1320" y="0" width="660" height="446" frameX="-42" frameY="-30" frameWidth="746" frameHeight="499" />
+<SubTexture name="BoiRun instance 0008" x="682" y="945" width="671" height="434" frameX="-65" frameY="-41" frameWidth="746" frameHeight="499" />
+<SubTexture name="BoiRun instance 0009" x="0" y="1389" width="672" height="420" frameX="-50" frameY="-56" frameWidth="746" frameHeight="499" />
+<SubTexture name="BoiRun instance 0010" x="0" y="1809" width="672" height="396" frameX="-45" frameY="-86" frameWidth="746" frameHeight="499" />
+<SubTexture name="BoiRun instance 0011" x="0" y="945" width="682" height="444" frameX="-44" frameY="-42" frameWidth="746" frameHeight="499" />
+<SubTexture name="BoiRun instance 0012" x="0" y="0" width="695" height="474" frameX="0" frameY="-20" frameWidth="746" frameHeight="499" />
+<SubTexture name="BoiRun instance 0013" x="643" y="474" width="649" height="458" frameX="-18" frameY="-33" frameWidth="746" frameHeight="499" />
+</TextureAtlas>

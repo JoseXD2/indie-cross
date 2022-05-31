@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="SammyRemastered.png"><SubTexture name="Axe attack0000" x="371" y="282" width="282" height="279" frameX="-56" frameY="-59" frameWidth="1249" frameHeight="551" />
+<SubTexture name="Axe attack0001" x="0" y="0" width="280" height="282" frameX="-211" frameY="-97" frameWidth="1249" frameHeight="551" />
+<SubTexture name="Axe attack0002" x="280" y="0" width="281" height="282" frameX="-442" frameY="-155" frameWidth="1249" frameHeight="551" />
+<SubTexture name="Axe attack0003" x="561" y="0" width="281" height="281" frameX="-671" frameY="-212" frameWidth="1249" frameHeight="551" />
+<SubTexture name="Axe attack0004" x="0" y="1105" width="226" height="243" frameX="-857" frameY="-268" frameWidth="1249" frameHeight="551" />
+<SubTexture name="Axe attack0005" x="775" y="1105" width="295" height="239" frameX="-829" frameY="-272" frameWidth="1249" frameHeight="551" />
+<SubTexture name="Axe attack0006" x="226" y="1105" width="315" height="241" frameX="-840" frameY="-270" frameWidth="1249" frameHeight="551" />
+<SubTexture name="Axe attack0007" x="894" y="837" width="335" height="245" frameX="-840" frameY="-270" frameWidth="1249" frameHeight="551" />
+<SubTexture name="Axe attack0008" x="1312" y="776" width="366" height="251" frameX="-827" frameY="-270" frameWidth="1249" frameHeight="551" />
+<SubTexture name="Axe attack0009" x="1312" y="519" width="392" height="257" frameX="-813" frameY="-270" frameWidth="1249" frameHeight="551" />
+<SubTexture name="Axe attack0010" x="475" y="837" width="419" height="261" frameX="-798" frameY="-270" frameWidth="1249" frameHeight="551" />
+<SubTexture name="Axe attack0011" x="400" y="563" width="442" height="264" frameX="-788" frameY="-270" frameWidth="1249" frameHeight="551" />
+<SubTexture name="Axe attack0012" x="842" y="536" width="460" height="266" frameX="-779" frameY="-270" frameWidth="1249" frameHeight="551" />
+<SubTexture name="Axe attack0013" x="842" y="0" width="470" height="269" frameX="-777" frameY="-270" frameWidth="1249" frameHeight="551" />
+<SubTexture name="Axe attack0014" x="0" y="837" width="475" height="268" frameX="-774" frameY="-270" frameWidth="1249" frameHeight="551" />
+<SubTexture name="Axe attack0015" x="1312" y="260" width="423" height="259" frameX="-773" frameY="-270" frameWidth="1249" frameHeight="551" />
+<SubTexture name="Axe attack0016" x="1312" y="0" width="430" height="260" frameX="-770" frameY="-270" frameWidth="1249" frameHeight="551" />
+<SubTexture name="Axe attack0017" x="842" y="269" width="393" height="267" frameX="-812" frameY="-270" frameWidth="1249" frameHeight="551" />
+<SubTexture name="Axe attack0018" x="0" y="563" width="400" height="274" frameX="-808" frameY="-270" frameWidth="1249" frameHeight="551" />
+<SubTexture name="Axe attack0019" x="0" y="282" width="371" height="281" frameX="-840" frameY="-270" frameWidth="1249" frameHeight="551" />
+<SubTexture name="Axe attack0020" x="541" y="1105" width="234" height="241" frameX="-840" frameY="-270" frameWidth="1249" frameHeight="551" />
+<SubTexture name="Axe attack0021" x="541" y="1105" width="234" height="241" frameX="-840" frameY="-270" frameWidth="1249" frameHeight="551" />
+<SubTexture name="Axe attack0022" x="541" y="1105" width="234" height="241" frameX="-840" frameY="-270" frameWidth="1249" frameHeight="551" />
+<SubTexture name="Axe attack0023" x="541" y="1105" width="234" height="241" frameX="-840" frameY="-270" frameWidth="1249" frameHeight="551" />
+<SubTexture name="Axe attack0024" x="541" y="1105" width="234" height="241" frameX="-840" frameY="-270" frameWidth="1249" frameHeight="551" />
+<SubTexture name="Axe attack0025" x="541" y="1105" width="234" height="241" frameX="-840" frameY="-270" frameWidth="1249" frameHeight="551" />
+<SubTexture name="Axe attack0026" x="541" y="1105" width="234" height="241" frameX="-840" frameY="-270" frameWidth="1249" frameHeight="551" />
+</TextureAtlas>

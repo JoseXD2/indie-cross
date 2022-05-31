@@ -1,0 +1,166 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				2,
+				2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "BF idle dance"
+		},
+		{
+			"offsets": [
+				27,
+				-1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"indices": [],
+			"name": "BFA NOTE LEFT  instance 1"
+		},
+		{
+			"offsets": [
+				-23,
+				-28
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"indices": [],
+			"name": "BFA NOTE DOWN  instance 1"
+		},
+		{
+			"offsets": [
+				-56,
+				57
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP-alt",
+			"indices": [],
+			"name": "BFA NOTE UP  instance 1"
+		},
+		{
+			"offsets": [
+				-40,
+				1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"indices": [],
+			"name": "BFA NOTE RIGHT  instance 1"
+		},
+		{
+			"offsets": [
+				-63,
+				25
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle-alt",
+			"indices": [],
+			"name": "BFA idle dance  instance 1"
+		},
+		{
+			"offsets": [
+				45,
+				51
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hurt",
+			"indices": [],
+			"name": "BF hit"
+		},
+		{
+			"offsets": [
+				-28,
+				-3
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "dodge",
+			"indices": [],
+			"name": "boyfriend dodge"
+		},
+		{
+			"offsets": [
+				27,
+				-1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "BF NOTE LEFT instance"
+		},
+		{
+			"offsets": [
+				1083,
+				-11
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "attack",
+			"indices": [],
+			"name": "0BF attack instance"
+		},
+		{
+			"offsets": [
+				-40,
+				1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "BF NOTE RIGHT instance"
+		},
+		{
+			"offsets": [
+				-56,
+				57
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "BF NOTE UP instance"
+		},
+		{
+			"offsets": [
+				-23,
+				-36
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "BF NOTE DOWN instance"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bENDE/BoyFriend_BendyShade",
+	"position": [
+		200,
+		360
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		80,
+		-90
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

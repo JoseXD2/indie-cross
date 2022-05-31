@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="NaranjaAlarma.png">
+<SubTexture name="NaranjaAlarma0000" x="0" y="0" width="912" height="502" frameX="0" frameY="0" frameWidth="913" frameHeight="503" />
+<SubTexture name="NaranjaAlarma0001" x="0" y="502" width="895" height="16" frameX="-18" frameY="-486" frameWidth="913" frameHeight="503" />
+<SubTexture name="NaranjaAlarma0002" x="0" y="0" width="912" height="502" frameX="0" frameY="0" frameWidth="913" frameHeight="503" />
+<SubTexture name="NaranjaAlarma0003" x="0" y="502" width="895" height="16" frameX="-18" frameY="-486" frameWidth="913" frameHeight="503" />
+<SubTexture name="NaranjaAlarma0004" x="0" y="0" width="912" height="502" frameX="0" frameY="0" frameWidth="913" frameHeight="503" />
+<SubTexture name="NaranjaAlarma0005" x="0" y="502" width="895" height="16" frameX="-18" frameY="-486" frameWidth="913" frameHeight="503" />
+<SubTexture name="NaranjaAlarma0006" x="0" y="0" width="912" height="502" frameX="0" frameY="0" frameWidth="913" frameHeight="503" />
+</TextureAtlas>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Sans.png"><SubTexture name="SansDodge instance 0000" x="1139" y="1596" width="630" height="483" frameX="-32" frameY="-59" frameWidth="662" frameHeight="616" />
+<SubTexture name="SansDodge instance 0001" x="0" y="0" width="502" height="556" frameX="-84" frameY="0" frameWidth="662" frameHeight="616" />
+<SubTexture name="SansDodge instance 0002" x="550" y="1596" width="589" height="508" frameX="-29" frameY="-59" frameWidth="662" frameHeight="616" />
+<SubTexture name="SansDodge instance 0003" x="502" y="0" width="551" height="520" frameX="-37" frameY="-58" frameWidth="662" frameHeight="616" />
+<SubTexture name="SansDodge instance 0004" x="1053" y="0" width="552" height="520" frameX="-28" frameY="-67" frameWidth="662" frameHeight="616" />
+<SubTexture name="SansDodge instance 0005" x="502" y="0" width="551" height="520" frameX="-22" frameY="-74" frameWidth="662" frameHeight="616" />
+<SubTexture name="SansDodge instance 0006" x="1053" y="0" width="552" height="520" frameX="-15" frameY="-81" frameWidth="662" frameHeight="616" />
+<SubTexture name="SansDodge instance 0007" x="502" y="0" width="551" height="520" frameX="-10" frameY="-86" frameWidth="662" frameHeight="616" />
+<SubTexture name="SansDodge instance 0008" x="1053" y="0" width="552" height="520" frameX="-5" frameY="-90" frameWidth="662" frameHeight="616" />
+<SubTexture name="SansDodge instance 0009" x="502" y="0" width="551" height="520" frameX="-2" frameY="-93" frameWidth="662" frameHeight="616" />
+<SubTexture name="SansDodge instance 0010" x="1053" y="0" width="552" height="520" frameX="-1" frameY="-95" frameWidth="662" frameHeight="616" />
+<SubTexture name="SansDodge instance 0011" x="0" y="556" width="550" height="520" frameX="0" frameY="-96" frameWidth="662" frameHeight="616" />
+<SubTexture name="SansDodge instance 0012" x="550" y="556" width="550" height="520" frameX="0" frameY="-96" frameWidth="662" frameHeight="616" />
+<SubTexture name="SansDodge instance 0013" x="0" y="1076" width="550" height="520" frameX="0" frameY="-96" frameWidth="662" frameHeight="616" />
+<SubTexture name="SansDodge instance 0014" x="550" y="556" width="550" height="520" frameX="0" frameY="-96" frameWidth="662" frameHeight="616" />
+<SubTexture name="SansDodge instance 0015" x="550" y="1076" width="550" height="520" frameX="0" frameY="-96" frameWidth="662" frameHeight="616" />
+<SubTexture name="SansDodge instance 0016" x="550" y="556" width="550" height="520" frameX="0" frameY="-96" frameWidth="662" frameHeight="616" />
+<SubTexture name="SansDodge instance 0017" x="550" y="556" width="550" height="520" frameX="0" frameY="-96" frameWidth="662" frameHeight="616" />
+<SubTexture name="SansDodge instance 0018" x="550" y="556" width="550" height="520" frameX="0" frameY="-96" frameWidth="662" frameHeight="616" />
+<SubTexture name="SansDodge instance 0019" x="550" y="556" width="550" height="520" frameX="0" frameY="-96" frameWidth="662" frameHeight="616" />
+<SubTexture name="SansDodge instance 0020" x="550" y="556" width="550" height="520" frameX="0" frameY="-96" frameWidth="662" frameHeight="616" />
+<SubTexture name="SansDodge instance 0021" x="0" y="556" width="550" height="520" frameX="0" frameY="-96" frameWidth="662" frameHeight="616" />
+<SubTexture name="SansDodge instance 0022" x="1053" y="0" width="552" height="520" frameX="-1" frameY="-95" frameWidth="662" frameHeight="616" />
+<SubTexture name="SansDodge instance 0023" x="1605" y="0" width="549" height="520" frameX="-5" frameY="-91" frameWidth="662" frameHeight="616" />
+<SubTexture name="SansDodge instance 0024" x="1053" y="0" width="552" height="520" frameX="-10" frameY="-86" frameWidth="662" frameHeight="616" />
+<SubTexture name="SansDodge instance 0025" x="0" y="1596" width="550" height="520" frameX="-18" frameY="-78" frameWidth="662" frameHeight="616" />
+<SubTexture name="SansDodge instance 0026" x="1053" y="0" width="552" height="520" frameX="-27" frameY="-68" frameWidth="662" frameHeight="616" />
+<SubTexture name="SansDodge instance 0027" x="1053" y="0" width="552" height="520" frameX="-40" frameY="-55" frameWidth="662" frameHeight="616" />
+<SubTexture name="SansDodge instance 0028" x="1053" y="0" width="552" height="520" frameX="-55" frameY="-40" frameWidth="662" frameHeight="616" />
+<SubTexture name="SansDodge instance 0029" x="1139" y="1596" width="630" height="483" frameX="-32" frameY="-59" frameWidth="662" frameHeight="616" />
+</TextureAtlas>

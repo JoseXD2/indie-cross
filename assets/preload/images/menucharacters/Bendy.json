@@ -1,0 +1,10 @@
+{
+	"confirm_anim": "Creepy",
+	"idle_anim": "Creepy",
+	"position": [
+		410,
+		149
+	],
+	"scale": 0.75,
+	"image": "Bendy"
+}
